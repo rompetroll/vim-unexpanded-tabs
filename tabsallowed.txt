@@ -1,3 +1,8 @@
+This file contains tab characters
+but vim is asked not to expand tabs to spaces.
+
+Therefore, no special highlighting of tabs
+
 	test	test
 		Test
 	

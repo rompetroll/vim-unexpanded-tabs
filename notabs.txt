@@ -1,3 +1,8 @@
+This file contains tab characters
+vim is asked to expand tabs to spaces for this file
+
+Therefore tabs are highlighted red.
+
 	test	test
 		Test
 	
